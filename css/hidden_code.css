@@ -1,0 +1,284 @@
+/* Newspaper Website CSS Document */
+
+*{
+margin:0;
+padding:0;
+}
+
+body{
+background-color:#AFEEEE;
+
+
+}
+
+
+.header{
+height:100px;
+width:100%;
+background:#20B2AA;
+}
+
+
+
+
+/*------------------Menu css Here------------------*/
+
+.dropdown{
+margin:0 auto;
+}
+
+nav{
+height:60px;
+background:none;
+box-shadow:0 10px 15px rgba(0,0,0,0,1);
+}
+
+.logo{
+padding:5px 0 0 80px;
+width:100px;
+height:auto;
+}
+
+nav ul{
+padding:0;
+margin:0;
+float:right;
+margin-right:20px;
+}
+
+nav ul li{
+background:none;
+position:relative;
+list-style:none;
+
+display:
+inline-block;
+}
+
+nav ul li a{
+display:block;
+color:black;
+padding:0 10px;
+text-decoration:none;
+line-height:60px;
+font-size:20px;
+
+}
+
+nav ul li a:hover{
+background:white;
+}
+
+nav ul ul{
+position:absolute;
+top:60px;
+display:none;
+
+}
+
+nav ul li:hover>ul{
+display:block;
+}
+
+nav ul ul li{
+
+display:list-items;
+width:165px;
+float:none;
+position:relative;
+
+}
+
+nav ul ul ul li{
+position:relative;
+top:-60px;
+left:150px;
+}
+
+
+/*-----------------------------------------------------*/
+.top_header{
+
+}
+
+.top_header logo{
+
+}
+
+.top_header logo h3{
+
+}
+
+.top_header menu{
+
+}
+
+.top_header menu sub_menu{
+
+}
+
+.top_header icon_link{
+
+}
+
+.heading_one{
+height:80px;
+background:white;
+padding:5px;
+
+}
+
+.heading_one h2{
+margin-left:230px;
+
+}
+
+.first_container{
+height:600px;
+width:1050px;
+background: #5dade2; 
+align:center;
+
+margin-left:230px;
+
+}
+
+.first_container button{
+border-radius:20px;
+border:none;
+background: #FFC300 ;
+}
+
+.first_container h3{
+
+padding:5px;
+
+}
+
+/*-----New Css Code Here-----*/
+
+.row_1{
+
+
+}
+
+.row_1_1{
+background:white;
+width:215px;
+height:90px;
+padding:10px;
+margin-left:22px;
+float:left;
+
+
+}
+
+.row_1_1 img{
+height:90px;
+
+
+}
+
+.row_2{
+
+
+}
+
+.row_2_2{
+background:white;
+width:215px;
+height:90px;
+padding:10px;
+margin-left:22px;
+float:left;
+
+}
+
+.row_2_2 img{
+height:90px;
+
+}
+
+.row_3{
+
+
+}
+
+.row_3_3{
+background: white;
+width:215px;
+height:90px;
+padding:10px;
+margin-left:22px;
+float:left;
+
+}
+
+.row_3_3 img{
+height:90px;
+
+}
+
+
+
+/*--------------------------*/
+
+.first_container top_row{
+
+
+}
+
+.first_container top_row img{
+
+}
+
+.container_ten{
+height:300px;
+width:1050px;
+background: #5dade2;
+align:center;
+
+margin-left:230px;
+
+}
+
+.container_ten button{
+border-radius:20px;
+border:none;
+background:   #FFC300  ;
+}
+
+<!-- first_container Same code here-->
+
+.row_3_3{
+background: white;
+width:215px;
+height:90px;
+padding:10px;
+margin-left:22px;
+float:left;
+
+}
+
+.container_ten .row_3_3 img{
+height:90px;
+
+}
+<!------------------>
+
+
+
+
+.footer{
+
+height:90px;
+width:100%;
+background:#20B2AA;
+}
+
+.footer h4{
+text-align:center;
+margin-top:30px;
+
+
+}
